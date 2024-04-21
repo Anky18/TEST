@@ -1,0 +1,991 @@
+2023-10-17 17:40:51,018 - Freshii -DEBUG - Debug logging has started 
+2023-10-19 18:29:25,878 - Freshii -DEBUG - Debug logging has started 
+2023-10-19 18:37:50,673 - Freshii -DEBUG - Debug logging has started 
+2023-10-23 10:56:06,513 - Freshii -DEBUG - Debug logging has started 
+2023-10-23 10:56:51,163 - Freshii -DEBUG - Debug logging has started 
+2023-10-23 10:57:27,294 - Freshii -DEBUG - Debug logging has started 
+2023-10-23 16:25:49,297 - Freshii -DEBUG - Debug logging has started 
+2023-10-23 16:25:54,266 - Freshii -INFO - loggin
+2023-10-23 17:01:39,281 - Freshii -DEBUG - Debug logging has started 
+2023-10-23 17:01:44,981 - Freshii -INFO - loggin
+2023-10-23 17:02:48,707 - Freshii -DEBUG - Debug logging has started 
+2023-10-23 17:02:52,034 - Freshii -INFO - loggin
+2023-10-23 17:04:58,614 - Freshii -DEBUG - Debug logging has started 
+2023-10-23 17:05:02,553 - Freshii -INFO - loggin
+2023-10-23 17:05:26,804 - Freshii -DEBUG - Debug logging has started 
+2023-10-23 17:05:30,296 - Freshii -INFO - loggin
+2023-10-23 17:07:09,168 - Freshii -DEBUG - Debug logging has started 
+2023-10-23 17:07:15,431 - Freshii -INFO - loggin
+2023-10-23 17:08:59,150 - Freshii -DEBUG - Debug logging has started 
+2023-10-23 17:09:03,028 - Freshii -INFO - loggin
+2023-10-23 17:14:09,031 - Freshii -DEBUG - Debug logging has started 
+2023-10-23 17:14:12,893 - Freshii -INFO - loggin
+2023-10-23 22:21:08,088 - Freshii -DEBUG - Debug logging has started 
+2023-10-23 22:21:12,892 - Freshii -INFO - loggin
+2023-10-23 22:30:37,023 - Freshii -DEBUG - Debug logging has started 
+2023-10-23 22:30:40,366 - Freshii -INFO - loggin
+2023-10-23 22:32:23,825 - Freshii -DEBUG - Debug logging has started 
+2023-10-23 22:32:27,144 - Freshii -INFO - loggin
+2023-10-23 22:57:03,154 - Freshii -DEBUG - Debug logging has started 
+2023-10-23 22:57:08,803 - Freshii -INFO - loggin
+2023-10-23 23:23:43,349 - Freshii -DEBUG - Debug logging has started 
+2023-10-23 23:23:48,380 - Freshii -INFO - loggin
+2023-10-23 23:26:51,497 - Freshii -DEBUG - Debug logging has started 
+2023-10-23 23:26:57,952 - Freshii -INFO - loggin
+2023-10-23 23:30:10,954 - Freshii -DEBUG - Debug logging has started 
+2023-10-23 23:30:19,208 - Freshii -DEBUG - Debug logging has started 
+2023-10-23 23:30:24,072 - Freshii -INFO - loggin
+2023-10-23 23:30:28,772 - Freshii -INFO - loggin
+2023-10-24 11:02:49,989 - Freshii -DEBUG - Debug logging has started 
+2023-10-24 11:02:54,179 - Freshii -INFO - loggin
+2023-10-24 11:02:58,507 - Freshii -INFO - loggin
+2023-10-24 11:05:24,045 - Freshii -DEBUG - Debug logging has started 
+2023-10-24 11:05:27,911 - Freshii -INFO - loggin
+2023-10-24 11:05:32,257 - Freshii -INFO - loggin
+2023-10-24 11:09:26,309 - Freshii -DEBUG - Debug logging has started 
+2023-10-24 11:09:31,501 - Freshii -INFO - loggin
+2023-10-24 11:09:35,742 - Freshii -INFO - loggin
+2023-10-24 11:10:20,661 - Freshii -DEBUG - Debug logging has started 
+2023-10-24 11:10:24,730 - Freshii -INFO - loggin
+2023-10-24 11:11:08,337 - Freshii -DEBUG - Debug logging has started 
+2023-10-24 11:11:12,288 - Freshii -INFO - loggin
+2023-10-24 11:26:12,528 - Freshii -DEBUG - Debug logging has started 
+2023-10-24 11:26:15,950 - Freshii -INFO - loggin
+2023-10-24 11:26:21,037 - Freshii -INFO - loggin
+2023-10-24 11:30:50,709 - Freshii -DEBUG - Debug logging has started 
+2023-10-24 11:30:54,227 - Freshii -INFO - loggin
+2023-10-24 11:31:28,837 - Freshii -DEBUG - Debug logging has started 
+2023-10-24 11:31:32,830 - Freshii -INFO - loggin
+2023-10-24 11:32:31,147 - Freshii -DEBUG - Debug logging has started 
+2023-10-24 11:32:34,587 - Freshii -INFO - loggin
+2023-10-24 11:33:23,808 - Freshii -DEBUG - Debug logging has started 
+2023-10-24 11:33:28,779 - Freshii -INFO - loggin
+2023-10-24 11:34:06,894 - Freshii -DEBUG - Debug logging has started 
+2023-10-24 11:34:10,890 - Freshii -INFO - loggin
+2023-10-24 11:37:57,274 - Freshii -DEBUG - Debug logging has started 
+2023-10-24 11:38:01,227 - Freshii -INFO - loggin
+2023-10-24 11:38:05,653 - Freshii -INFO - loggin
+2023-10-24 17:52:20,005 - Freshii -DEBUG - Debug logging has started 
+2023-10-24 19:39:33,488 - Freshii -DEBUG - Debug logging has started 
+2023-10-24 19:39:38,669 - Freshii -INFO - User logged in with valid inputs
+2023-10-24 19:59:46,881 - Freshii -DEBUG - Debug logging has started 
+2023-10-24 19:59:53,175 - Freshii -INFO - User logged in with valid inputs
+2023-10-24 20:04:18,265 - Freshii -DEBUG - Debug logging has started 
+2023-10-24 20:04:23,595 - Freshii -INFO - User logged in with valid inputs
+2023-10-24 20:05:33,643 - Freshii -DEBUG - Debug logging has started 
+2023-10-24 20:05:41,182 - Freshii -INFO - User logged in with valid inputs
+2023-10-25 12:15:08,945 - Freshii -DEBUG - Debug logging has started 
+2023-10-25 12:15:12,845 - Freshii -INFO - User logged in with valid inputs
+2023-10-25 12:16:37,469 - Freshii -DEBUG - Debug logging has started 
+2023-10-25 12:17:40,210 - Freshii -DEBUG - Debug logging has started 
+2023-10-25 12:41:53,574 - Freshii -DEBUG - Debug logging has started 
+2023-10-25 12:41:55,814 - Freshii -INFO - valid domain
+2023-10-25 12:41:56,627 - Freshii -INFO - invalid domain
+2023-10-25 12:42:07,890 - Freshii -INFO - valid email
+2023-10-25 12:43:44,848 - Freshii -DEBUG - Debug logging has started 
+2023-10-25 12:43:46,869 - Freshii -INFO - valid domain
+2023-10-25 12:43:47,688 - Freshii -INFO - invalid domain
+2023-10-25 12:43:58,994 - Freshii -INFO - valid email
+2023-10-25 12:44:59,129 - Freshii -DEBUG - Debug logging has started 
+2023-10-25 12:45:01,139 - Freshii -INFO - valid domain
+2023-10-25 12:45:01,994 - Freshii -INFO - invalid domain
+2023-10-25 12:45:04,828 - Freshii -INFO - all valid 
+2023-10-25 12:49:26,837 - Freshii -DEBUG - Debug logging has started 
+2023-10-25 12:49:28,883 - Freshii -INFO - valid domain
+2023-10-25 12:49:29,716 - Freshii -INFO - invalid domain
+2023-10-25 12:49:32,535 - Freshii -INFO - all valid 
+2023-10-25 12:49:34,857 - Freshii -INFO - valid email
+2023-10-25 12:49:36,347 - Freshii -INFO - invalid email
+2023-10-25 12:49:37,842 - Freshii -INFO - invalid password
+2023-10-25 12:50:02,901 - Freshii -DEBUG - Debug logging has started 
+2023-10-25 12:50:05,048 - Freshii -INFO - valid domain
+2023-10-25 12:50:05,885 - Freshii -INFO - invalid domain
+2023-10-25 12:50:08,688 - Freshii -INFO - all valid 
+2023-10-25 12:50:10,978 - Freshii -INFO - valid email
+2023-10-25 12:50:12,468 - Freshii -INFO - invalid email
+2023-10-25 12:50:13,964 - Freshii -INFO - invalid password
+2023-10-25 12:50:17,445 - Freshii -DEBUG - Debug logging has started 
+2023-10-25 12:50:24,642 - Freshii -DEBUG - Debug logging has started 
+2023-10-25 12:50:28,365 - Freshii -INFO - User logged in with valid inputs
+2023-10-25 12:50:36,456 - Freshii -DEBUG - Debug logging has started 
+2023-10-25 12:50:39,674 - Freshii -INFO - User logged in with valid inputs
+2023-10-25 12:50:43,223 - Freshii -DEBUG - Debug logging has started 
+2023-10-25 12:50:47,100 - Freshii -INFO - User logged in with valid inputs
+2023-10-25 12:50:49,715 - Freshii -DEBUG - Debug logging has started 
+2023-10-25 12:50:54,278 - Freshii -DEBUG - Debug logging has started 
+2023-10-25 12:50:58,049 - Freshii -INFO - User logged in with valid inputs
+2023-10-25 12:52:26,296 - Freshii -DEBUG - Debug logging has started 
+2023-10-25 12:52:29,627 - Freshii -INFO - User logged in with valid inputs
+2023-10-25 12:53:14,098 - Freshii -DEBUG - Debug logging has started 
+2023-10-25 12:53:16,182 - Freshii -INFO - valid domain
+2023-10-25 12:53:17,020 - Freshii -INFO - invalid domain
+2023-10-25 12:53:19,851 - Freshii -INFO - all valid 
+2023-10-25 12:53:22,154 - Freshii -INFO - valid email
+2023-10-25 12:53:23,655 - Freshii -INFO - invalid email
+2023-10-25 12:53:25,153 - Freshii -INFO - invalid password
+2023-10-25 12:53:28,628 - Freshii -DEBUG - Debug logging has started 
+2023-10-25 12:53:35,279 - Freshii -DEBUG - Debug logging has started 
+2023-10-25 12:53:38,586 - Freshii -INFO - User logged in with valid inputs
+2023-10-25 12:53:47,839 - Freshii -DEBUG - Debug logging has started 
+2023-10-25 12:53:51,692 - Freshii -INFO - User logged in with valid inputs
+2023-10-25 12:53:55,378 - Freshii -DEBUG - Debug logging has started 
+2023-10-25 12:53:59,793 - Freshii -DEBUG - Debug logging has started 
+2023-10-25 12:54:03,548 - Freshii -INFO - User logged in with valid inputs
+2023-10-25 12:54:08,026 - Freshii -DEBUG - Debug logging has started 
+2023-10-25 12:54:11,361 - Freshii -INFO - User logged in with valid inputs
+2023-10-26 15:58:00,787 - Freshii -DEBUG - Debug logging has started 
+2023-10-26 15:58:03,088 - Freshii -INFO - valid domain
+2023-10-26 15:58:03,999 - Freshii -INFO - invalid domain
+2023-10-26 15:59:16,584 - Freshii -DEBUG - Debug logging has started 
+2023-10-26 15:59:18,599 - Freshii -INFO - valid domain
+2023-10-26 15:59:19,953 - Freshii -INFO - invalid domain
+2023-10-26 15:59:22,809 - Freshii -INFO - all valid 
+2023-10-26 15:59:25,156 - Freshii -INFO - valid email
+2023-10-26 15:59:26,667 - Freshii -INFO - invalid email
+2023-10-26 15:59:28,162 - Freshii -INFO - invalid password
+2023-10-26 15:59:31,674 - Freshii -DEBUG - Debug logging has started 
+2023-10-26 15:59:39,606 - Freshii -DEBUG - Debug logging has started 
+2023-10-26 15:59:43,388 - Freshii -INFO - User logged in with valid inputs
+2023-10-26 15:59:51,968 - Freshii -DEBUG - Debug logging has started 
+2023-10-26 15:59:55,732 - Freshii -INFO - User logged in with valid inputs
+2023-10-26 15:59:59,422 - Freshii -DEBUG - Debug logging has started 
+2023-10-26 16:00:03,229 - Freshii -INFO - User logged in with valid inputs
+2023-10-26 16:00:07,656 - Freshii -DEBUG - Debug logging has started 
+2023-10-26 16:00:12,107 - Freshii -DEBUG - Debug logging has started 
+2023-10-26 16:00:15,783 - Freshii -INFO - User logged in with valid inputs
+2023-10-26 16:00:20,907 - Freshii -DEBUG - Debug logging has started 
+2023-10-26 16:06:32,741 - Freshii -DEBUG - Debug logging has started 
+2023-10-26 16:06:37,568 - Freshii -INFO - User logged in with valid inputs
+2023-10-26 16:07:21,467 - Freshii -DEBUG - Debug logging has started 
+2023-10-26 16:07:25,592 - Freshii -INFO - User logged in with valid inputs
+2023-10-26 16:08:43,675 - Freshii -DEBUG - Debug logging has started 
+2023-10-26 16:08:48,504 - Freshii -INFO - User logged in with valid inputs
+2023-10-26 16:09:25,643 - Freshii -DEBUG - Debug logging has started 
+2023-10-26 16:09:31,504 - Freshii -INFO - User logged in with valid inputs
+2023-10-26 16:11:20,543 - Freshii -DEBUG - Debug logging has started 
+2023-10-26 16:11:26,393 - Freshii -INFO - User logged in with valid inputs
+2023-10-26 16:15:42,917 - Freshii -DEBUG - Debug logging has started 
+2023-10-26 16:15:46,294 - Freshii -INFO - User logged in with valid inputs
+2023-10-27 10:12:59,660 - Freshii -DEBUG - Debug logging has started 
+2023-10-29 20:45:51,055 - Freshii -DEBUG - Debug logging has started 
+2023-10-29 20:47:24,288 - Freshii -DEBUG - Debug logging has started 
+2023-10-30 09:55:41,084 - Freshii -DEBUG - Debug logging has started 
+2023-10-30 09:57:04,595 - Freshii -DEBUG - Debug logging has started 
+2023-10-30 13:50:52,100 - Freshii -DEBUG - Debug logging has started 
+2023-10-30 13:50:54,180 - Freshii -INFO - valid domain
+2023-10-30 13:50:55,029 - Freshii -INFO - invalid domain
+2023-10-30 13:52:57,462 - Freshii -DEBUG - Debug logging has started 
+2023-10-30 13:52:59,572 - Freshii -INFO - valid domain
+2023-10-30 13:53:01,421 - Freshii -INFO - invalid domain
+2023-10-30 13:53:04,246 - Freshii -INFO - all valid 
+2023-10-30 13:53:06,473 - Freshii -INFO - valid email
+2023-10-30 13:53:07,968 - Freshii -INFO - invalid email
+2023-10-30 13:53:09,459 - Freshii -INFO - invalid password
+2023-10-30 13:53:12,798 - Freshii -DEBUG - Debug logging has started 
+2023-10-30 13:53:16,551 - Freshii -INFO - User logged in with valid inputs
+2023-10-30 13:53:24,744 - Freshii -DEBUG - Debug logging has started 
+2023-10-30 13:53:34,625 - Freshii -DEBUG - Debug logging has started 
+2023-10-30 13:53:39,588 - Freshii -DEBUG - Debug logging has started 
+2023-10-30 13:53:49,082 - Freshii -DEBUG - Debug logging has started 
+2023-10-30 13:53:54,441 - Freshii -DEBUG - Debug logging has started 
+2023-10-30 13:53:58,648 - Freshii -DEBUG - Debug logging has started 
+2023-10-30 13:54:05,871 - Freshii -DEBUG - Debug logging has started 
+2023-10-30 13:54:09,730 - Freshii -INFO - User logged in with valid inputs
+2023-10-30 13:54:13,682 - Freshii -DEBUG - Debug logging has started 
+2023-10-30 13:54:19,504 - Freshii -DEBUG - Debug logging has started 
+2023-10-30 15:28:34,811 - Freshii -DEBUG - Debug logging has started 
+2023-10-30 16:04:22,360 - Freshii -DEBUG - Debug logging has started 
+2023-10-30 16:05:43,983 - Freshii -DEBUG - Debug logging has started 
+2023-10-30 16:22:53,839 - Freshii -DEBUG - Debug logging has started 
+2023-10-30 16:29:46,993 - Freshii -DEBUG - Debug logging has started 
+2023-10-30 16:29:50,947 - Freshii -INFO - User logged in with valid inputs
+2023-10-31 10:07:51,668 - Freshii -DEBUG - Debug logging has started 
+2023-10-31 10:07:53,838 - Freshii -INFO - valid domain
+2023-10-31 10:07:54,686 - Freshii -INFO - invalid domain
+2023-10-31 10:07:57,529 - Freshii -INFO - all valid 
+2023-10-31 10:07:59,771 - Freshii -INFO - valid email
+2023-10-31 10:08:01,291 - Freshii -INFO - invalid email
+2023-10-31 10:08:02,805 - Freshii -INFO - invalid password
+2023-10-31 10:08:06,130 - Freshii -DEBUG - Debug logging has started 
+2023-10-31 10:08:16,623 - Freshii -DEBUG - Debug logging has started 
+2023-10-31 10:08:20,077 - Freshii -INFO - User logged in with valid inputs
+2023-10-31 10:08:29,808 - Freshii -DEBUG - Debug logging has started 
+2023-10-31 10:08:33,625 - Freshii -INFO - User logged in with valid inputs
+2023-10-31 10:08:38,169 - Freshii -DEBUG - Debug logging has started 
+2023-10-31 10:08:45,042 - Freshii -DEBUG - Debug logging has started 
+2023-10-31 10:08:53,486 - Freshii -DEBUG - Debug logging has started 
+2023-10-31 10:09:01,679 - Freshii -DEBUG - Debug logging has started 
+2023-10-31 10:09:06,196 - Freshii -DEBUG - Debug logging has started 
+2023-10-31 10:09:09,379 - Freshii -INFO - User logged in with valid inputs
+2023-10-31 10:09:13,885 - Freshii -DEBUG - Debug logging has started 
+2023-10-31 10:09:21,052 - Freshii -DEBUG - Debug logging has started 
+2023-10-31 10:09:25,861 - Freshii -DEBUG - Debug logging has started 
+2023-10-31 10:19:15,010 - Freshii -DEBUG - Debug logging has started 
+2023-10-31 10:19:18,064 - Freshii -INFO - valid domain
+2023-10-31 10:19:18,909 - Freshii -INFO - invalid domain
+2023-10-31 10:19:22,264 - Freshii -INFO - all valid 
+2023-10-31 10:19:25,092 - Freshii -INFO - valid email
+2023-10-31 10:19:26,543 - Freshii -INFO - invalid email
+2023-10-31 10:19:27,990 - Freshii -INFO - invalid password
+2023-10-31 10:19:31,713 - Freshii -DEBUG - Debug logging has started 
+2023-10-31 10:19:42,438 - Freshii -DEBUG - Debug logging has started 
+2023-10-31 10:19:45,726 - Freshii -INFO - User logged in with valid inputs
+2023-10-31 10:19:54,549 - Freshii -DEBUG - Debug logging has started 
+2023-10-31 10:19:58,417 - Freshii -INFO - User logged in with valid inputs
+2023-10-31 10:20:03,092 - Freshii -DEBUG - Debug logging has started 
+2023-10-31 10:20:10,011 - Freshii -DEBUG - Debug logging has started 
+2023-10-31 10:20:18,639 - Freshii -DEBUG - Debug logging has started 
+2023-10-31 10:20:25,727 - Freshii -DEBUG - Debug logging has started 
+2023-10-31 10:20:29,916 - Freshii -DEBUG - Debug logging has started 
+2023-10-31 10:20:33,709 - Freshii -INFO - User logged in with valid inputs
+2023-10-31 10:20:38,643 - Freshii -DEBUG - Debug logging has started 
+2023-10-31 10:20:45,188 - Freshii -DEBUG - Debug logging has started 
+2023-10-31 10:20:50,258 - Freshii -DEBUG - Debug logging has started 
+2023-10-31 12:22:42,946 - Freshii -DEBUG - Debug logging has started 
+2023-10-31 12:22:45,098 - Freshii -INFO - valid domain
+2023-10-31 12:22:45,932 - Freshii -INFO - invalid domain
+2023-10-31 12:22:48,222 - Freshii -INFO - all valid 
+2023-10-31 12:22:50,394 - Freshii -INFO - valid email
+2023-10-31 12:22:51,906 - Freshii -INFO - invalid email
+2023-10-31 12:22:53,380 - Freshii -INFO - invalid password
+2023-10-31 12:22:56,629 - Freshii -DEBUG - Debug logging has started 
+2023-10-31 12:23:46,122 - Freshii -DEBUG - Debug logging has started 
+2023-10-31 12:23:49,513 - Freshii -INFO - User logged in with valid inputs
+2023-10-31 12:23:57,549 - Freshii -DEBUG - Debug logging has started 
+2023-10-31 12:24:00,760 - Freshii -INFO - User logged in with valid inputs
+2023-10-31 12:24:05,092 - Freshii -DEBUG - Debug logging has started 
+2023-10-31 12:24:12,104 - Freshii -DEBUG - Debug logging has started 
+2023-10-31 12:24:20,019 - Freshii -DEBUG - Debug logging has started 
+2023-10-31 12:24:28,726 - Freshii -DEBUG - Debug logging has started 
+2023-10-31 12:24:32,378 - Freshii -DEBUG - Debug logging has started 
+2023-10-31 12:24:35,987 - Freshii -INFO - User logged in with valid inputs
+2023-10-31 12:24:40,982 - Freshii -DEBUG - Debug logging has started 
+2023-10-31 12:24:47,242 - Freshii -DEBUG - Debug logging has started 
+2023-10-31 12:24:52,058 - Freshii -DEBUG - Debug logging has started 
+2023-10-31 12:31:17,365 - Freshii -DEBUG - Debug logging has started 
+2023-10-31 12:31:19,495 - Freshii -INFO - valid domain
+2023-10-31 12:31:20,308 - Freshii -INFO - invalid domain
+2023-10-31 12:31:22,602 - Freshii -INFO - all valid 
+2023-10-31 12:31:24,897 - Freshii -INFO - valid email
+2023-10-31 12:31:26,367 - Freshii -INFO - invalid email
+2023-10-31 12:31:27,824 - Freshii -INFO - invalid password
+2023-10-31 12:31:31,078 - Freshii -DEBUG - Debug logging has started 
+2023-10-31 12:31:41,674 - Freshii -DEBUG - Debug logging has started 
+2023-10-31 12:31:44,980 - Freshii -INFO - User logged in with valid inputs
+2023-10-31 12:31:54,285 - Freshii -DEBUG - Debug logging has started 
+2023-10-31 12:31:58,123 - Freshii -INFO - User logged in with valid inputs
+2023-10-31 12:32:02,669 - Freshii -DEBUG - Debug logging has started 
+2023-10-31 12:32:10,285 - Freshii -DEBUG - Debug logging has started 
+2023-10-31 12:32:18,751 - Freshii -DEBUG - Debug logging has started 
+2023-10-31 12:32:47,601 - Freshii -DEBUG - Debug logging has started 
+2023-10-31 12:32:51,852 - Freshii -DEBUG - Debug logging has started 
+2023-10-31 12:32:55,048 - Freshii -INFO - User logged in with valid inputs
+2023-10-31 12:32:59,881 - Freshii -DEBUG - Debug logging has started 
+2023-10-31 12:33:06,439 - Freshii -DEBUG - Debug logging has started 
+2023-10-31 12:33:11,524 - Freshii -DEBUG - Debug logging has started 
+2023-10-31 12:37:05,937 - Freshii -DEBUG - Debug logging has started 
+2023-10-31 12:39:49,709 - Freshii -DEBUG - Debug logging has started 
+2023-10-31 12:39:51,861 - Freshii -INFO - valid domain
+2023-10-31 12:39:52,698 - Freshii -INFO - invalid domain
+2023-10-31 12:39:55,535 - Freshii -INFO - all valid 
+2023-10-31 12:39:57,722 - Freshii -INFO - valid email
+2023-10-31 12:39:59,238 - Freshii -INFO - invalid email
+2023-10-31 12:40:00,742 - Freshii -INFO - invalid password
+2023-10-31 12:40:04,523 - Freshii -DEBUG - Debug logging has started 
+2023-10-31 12:40:15,425 - Freshii -DEBUG - Debug logging has started 
+2023-10-31 12:40:19,210 - Freshii -INFO - User logged in with valid inputs
+2023-10-31 12:40:28,501 - Freshii -DEBUG - Debug logging has started 
+2023-10-31 12:40:31,774 - Freshii -INFO - User logged in with valid inputs
+2023-10-31 12:40:36,288 - Freshii -DEBUG - Debug logging has started 
+2023-10-31 12:40:43,702 - Freshii -DEBUG - Debug logging has started 
+2023-10-31 12:40:51,772 - Freshii -DEBUG - Debug logging has started 
+2023-10-31 12:41:00,499 - Freshii -DEBUG - Debug logging has started 
+2023-10-31 12:41:04,402 - Freshii -DEBUG - Debug logging has started 
+2023-10-31 12:41:08,136 - Freshii -INFO - User logged in with valid inputs
+2023-10-31 12:41:12,806 - Freshii -DEBUG - Debug logging has started 
+2023-10-31 12:41:19,686 - Freshii -DEBUG - Debug logging has started 
+2023-10-31 12:41:24,905 - Freshii -DEBUG - Debug logging has started 
+2023-11-03 07:46:33,810 - Freshii -DEBUG - Debug logging has started 
+2023-11-03 07:48:55,230 - Freshii -DEBUG - Debug logging has started 
+2023-11-03 07:53:14,164 - Freshii -DEBUG - Debug logging has started 
+2023-11-03 07:54:28,325 - Freshii -DEBUG - Debug logging has started 
+2023-11-03 07:54:35,332 - Freshii -DEBUG - Debug logging has started 
+2023-11-03 07:55:28,851 - Freshii -DEBUG - Debug logging has started 
+2023-11-03 07:58:08,009 - Freshii -DEBUG - Debug logging has started 
+2023-11-03 09:42:46,024 - Freshii -DEBUG - Debug logging has started 
+2023-11-03 09:49:58,492 - Freshii -DEBUG - Debug logging has started 
+2023-11-03 10:25:57,153 - Freshii -DEBUG - Debug logging has started 
+2023-11-03 10:28:58,444 - Freshii -DEBUG - Debug logging has started 
+2023-11-03 10:29:02,467 - Freshii -INFO - Logging in with valid inputs
+2023-11-03 10:30:38,170 - Freshii -DEBUG - Debug logging has started 
+2023-11-03 10:40:21,459 - Freshii -DEBUG - Debug logging has started 
+2023-11-03 10:40:25,391 - Freshii -INFO - Logging in with valid inputs
+2023-11-03 10:59:12,783 - Freshii -DEBUG - Debug logging has started 
+2023-11-03 10:59:16,247 - Freshii -INFO - Logging in with valid inputs
+2023-11-03 18:02:55,251 - Freshii -DEBUG - Debug logging has started 
+2023-11-03 18:08:02,131 - Freshii -DEBUG - Debug logging has started 
+2023-11-03 18:08:06,095 - Freshii -INFO - User logged in with valid inputs
+2023-11-03 18:14:45,835 - Freshii -DEBUG - Debug logging has started 
+2023-11-06 11:47:15,702 - Freshii -DEBUG - Debug logging has started 
+2023-11-06 11:47:24,475 - Freshii -DEBUG - Debug logging has started 
+2023-11-06 11:47:31,623 - Freshii -DEBUG - Debug logging has started 
+2023-11-06 11:47:33,814 - Freshii -INFO - valid domain
+2023-11-06 11:47:34,603 - Freshii -INFO - invalid domain
+2023-11-06 11:47:45,800 - Freshii -INFO - valid email
+2023-11-06 11:47:56,349 - Freshii -INFO - invalid email
+2023-11-06 11:48:06,788 - Freshii -INFO - invalid password
+2023-11-06 11:48:18,125 - Freshii -DEBUG - Debug logging has started 
+2023-11-06 11:48:24,140 - Freshii -DEBUG - Debug logging has started 
+2023-11-06 11:48:27,958 - Freshii -INFO - User logged in with valid inputs
+2023-11-06 11:48:35,787 - Freshii -DEBUG - Debug logging has started 
+2023-11-06 11:48:44,491 - Freshii -DEBUG - Debug logging has started 
+2023-11-06 11:49:22,125 - Freshii -DEBUG - Debug logging has started 
+2023-11-06 11:49:27,577 - Freshii -INFO - User logged in with valid inputs
+2023-11-06 11:50:02,113 - Freshii -DEBUG - Debug logging has started 
+2023-11-06 11:50:10,626 - Freshii -DEBUG - Debug logging has started 
+2023-11-06 11:50:18,135 - Freshii -DEBUG - Debug logging has started 
+2023-11-06 11:50:27,994 - Freshii -DEBUG - Debug logging has started 
+2023-11-06 11:50:39,535 - Freshii -DEBUG - Debug logging has started 
+2023-11-06 11:50:51,657 - Freshii -DEBUG - Debug logging has started 
+2023-11-06 11:50:58,748 - Freshii -DEBUG - Debug logging has started 
+2023-11-06 11:51:04,952 - Freshii -DEBUG - Debug logging has started 
+2023-11-06 11:51:09,219 - Freshii -INFO - User logged in with valid inputs
+2023-11-06 11:51:11,799 - Freshii -DEBUG - Debug logging has started 
+2023-11-06 11:51:15,885 - Freshii -INFO - Logging in with valid inputs
+2023-11-06 11:51:20,339 - Freshii -DEBUG - Debug logging has started 
+2023-11-06 11:51:25,318 - Freshii -DEBUG - Debug logging has started 
+2023-11-06 11:51:29,063 - Freshii -INFO - User logged in with valid inputs
+2023-11-06 15:35:09,969 - Freshii -DEBUG - Debug logging has started 
+2023-11-06 15:35:14,089 - Freshii -INFO - Logging in with valid inputs
+2023-11-06 15:35:45,151 - Freshii -DEBUG - Debug logging has started 
+2023-11-06 15:35:49,590 - Freshii -INFO - User logged in with valid inputs
+2023-11-06 15:37:48,203 - Freshii -DEBUG - Debug logging has started 
+2023-11-06 15:37:53,106 - Freshii -INFO - User logged in with valid inputs
+2023-11-06 15:41:17,462 - Freshii -DEBUG - Debug logging has started 
+2023-11-06 15:41:21,512 - Freshii -INFO - User logged in with valid inputs
+2023-11-06 15:42:10,042 - Freshii -DEBUG - Debug logging has started 
+2023-11-06 15:42:14,925 - Freshii -INFO - User logged in with valid inputs
+2023-11-06 15:43:33,975 - Freshii -DEBUG - Debug logging has started 
+2023-11-06 15:43:37,872 - Freshii -INFO - User logged in with valid inputs
+2023-11-06 15:46:25,955 - Freshii -DEBUG - Debug logging has started 
+2023-11-06 15:46:31,138 - Freshii -INFO - User logged in with valid inputs
+2023-11-06 15:46:45,892 - Freshii -DEBUG - Debug logging has started 
+2023-11-06 15:46:50,838 - Freshii -INFO - Logging in with valid inputs
+2023-11-09 20:14:40,066 - Freshii -DEBUG - Debug logging has started 
+2023-11-09 21:42:42,551 - Freshii -DEBUG - Debug logging has started 
+2023-11-09 21:42:47,801 - Freshii -INFO - Logging in with valid inputs
+2023-11-09 21:46:38,027 - Freshii -DEBUG - Debug logging has started 
+2023-11-09 21:46:42,178 - Freshii -INFO - Logging in with valid inputs
+2023-11-09 21:48:24,895 - Freshii -DEBUG - Debug logging has started 
+2023-11-09 21:48:28,837 - Freshii -INFO - Logging in with valid inputs
+2023-11-09 21:50:13,113 - Freshii -DEBUG - Debug logging has started 
+2023-11-09 21:50:19,273 - Freshii -INFO - Logging in with valid inputs
+2023-11-09 21:51:24,673 - Freshii -DEBUG - Debug logging has started 
+2023-11-09 21:51:28,236 - Freshii -INFO - Logging in with valid inputs
+2023-11-09 21:53:15,680 - Freshii -DEBUG - Debug logging has started 
+2023-11-09 21:53:19,665 - Freshii -INFO - Logging in with valid inputs
+2023-11-10 11:33:26,671 - Freshii -DEBUG - Debug logging has started 
+2023-11-10 11:33:30,777 - Freshii -INFO - Logging in with valid inputs
+2023-11-10 11:35:18,732 - Freshii -DEBUG - Debug logging has started 
+2023-11-10 11:35:22,672 - Freshii -INFO - Logging in with valid inputs
+2023-11-10 12:09:49,700 - Freshii -DEBUG - Debug logging has started 
+2023-11-10 12:09:54,034 - Freshii -INFO - Logging in with valid inputs
+2023-11-10 12:13:34,830 - Freshii -DEBUG - Debug logging has started 
+2023-11-10 12:13:38,839 - Freshii -INFO - Logging in with valid inputs
+2023-11-10 12:15:43,719 - Freshii -DEBUG - Debug logging has started 
+2023-11-10 12:15:47,122 - Freshii -INFO - Logging in with valid inputs
+2023-11-13 15:29:34,601 - Freshii -DEBUG - Debug logging has started 
+2023-11-13 15:29:39,122 - Freshii -INFO - User logged in with valid inputs
+2023-11-13 18:17:19,863 - Freshii -DEBUG - Debug logging has started 
+2023-11-13 18:17:23,915 - Freshii -INFO - Logging in with valid inputs
+2023-11-14 15:23:28,289 - Freshii -DEBUG - Debug logging has started 
+2023-11-14 16:23:33,630 - Freshii -DEBUG - Debug logging has started 
+2023-11-14 16:23:37,532 - Freshii -INFO - Logging in with valid inputs
+2023-11-14 16:24:45,629 - Freshii -DEBUG - Debug logging has started 
+2023-11-14 16:24:49,169 - Freshii -INFO - Logging in with valid inputs
+2023-11-14 16:25:18,672 - Freshii -DEBUG - Debug logging has started 
+2023-11-14 16:36:33,626 - Freshii -DEBUG - Debug logging has started 
+2023-11-14 16:36:37,538 - Freshii -INFO - User logged in with valid inputs
+2023-11-14 16:48:53,887 - Freshii -DEBUG - Debug logging has started 
+2023-11-14 16:48:58,866 - Freshii -INFO - User logged in with valid inputs
+2023-11-14 16:49:22,093 - Freshii -DEBUG - Debug logging has started 
+2023-11-14 16:49:26,012 - Freshii -INFO - User logged in with valid inputs
+2023-11-14 16:52:43,371 - Freshii -DEBUG - Debug logging has started 
+2023-11-14 16:52:45,547 - Freshii -INFO - valid domain
+2023-11-14 16:52:46,383 - Freshii -INFO - invalid domain
+2023-11-14 16:52:49,225 - Freshii -INFO - all valid 
+2023-11-14 16:52:51,408 - Freshii -INFO - valid email
+2023-11-14 16:52:52,908 - Freshii -INFO - invalid email
+2023-11-14 16:52:54,405 - Freshii -INFO - invalid password
+2023-11-14 16:52:57,649 - Freshii -DEBUG - Debug logging has started 
+2023-11-14 16:53:02,153 - Freshii -INFO - User logged in with valid inputs
+2023-11-14 16:53:12,660 - Freshii -DEBUG - Debug logging has started 
+2023-11-14 16:53:16,509 - Freshii -INFO - User logged in with valid inputs
+2023-11-14 16:53:20,949 - Freshii -DEBUG - Debug logging has started 
+2023-11-14 16:53:27,541 - Freshii -DEBUG - Debug logging has started 
+2023-11-14 16:53:35,670 - Freshii -DEBUG - Debug logging has started 
+2023-11-14 16:53:43,176 - Freshii -DEBUG - Debug logging has started 
+2023-11-14 16:53:51,765 - Freshii -DEBUG - Debug logging has started 
+2023-11-14 16:53:59,616 - Freshii -DEBUG - Debug logging has started 
+2023-11-14 16:54:03,890 - Freshii -DEBUG - Debug logging has started 
+2023-11-14 16:54:16,008 - Freshii -DEBUG - Debug logging has started 
+2023-11-14 16:54:31,521 - Freshii -DEBUG - Debug logging has started 
+2023-11-14 16:54:40,515 - Freshii -DEBUG - Debug logging has started 
+2023-11-14 17:03:08,375 - Freshii -DEBUG - Debug logging has started 
+2023-11-14 17:03:10,584 - Freshii -INFO - valid domain
+2023-11-14 17:03:11,445 - Freshii -INFO - invalid domain
+2023-11-14 17:03:14,306 - Freshii -INFO - all valid 
+2023-11-14 17:03:16,740 - Freshii -INFO - valid email
+2023-11-14 17:03:18,272 - Freshii -INFO - invalid email
+2023-11-14 17:03:19,833 - Freshii -INFO - invalid password
+2023-11-14 17:03:23,040 - Freshii -DEBUG - Debug logging has started 
+2023-11-14 17:03:26,364 - Freshii -INFO - User logged in with valid inputs
+2023-11-14 17:03:36,752 - Freshii -DEBUG - Debug logging has started 
+2023-11-14 17:03:41,524 - Freshii -INFO - User logged in with valid inputs
+2023-11-14 17:03:46,009 - Freshii -DEBUG - Debug logging has started 
+2023-11-14 17:03:53,819 - Freshii -DEBUG - Debug logging has started 
+2023-11-14 17:04:00,653 - Freshii -DEBUG - Debug logging has started 
+2023-11-14 17:04:09,588 - Freshii -DEBUG - Debug logging has started 
+2023-11-14 17:04:17,996 - Freshii -DEBUG - Debug logging has started 
+2023-11-14 17:04:25,944 - Freshii -DEBUG - Debug logging has started 
+2023-11-14 17:04:30,328 - Freshii -DEBUG - Debug logging has started 
+2023-11-14 17:04:37,331 - Freshii -DEBUG - Debug logging has started 
+2023-11-14 17:04:51,986 - Freshii -DEBUG - Debug logging has started 
+2023-11-14 17:04:59,952 - Freshii -DEBUG - Debug logging has started 
+2023-11-14 17:52:01,206 - Freshii -DEBUG - Debug logging has started 
+2023-11-14 17:52:06,009 - Freshii -INFO - Logging in with valid inputs
+2023-11-14 18:01:49,726 - Freshii -DEBUG - Debug logging has started 
+2023-11-14 18:01:53,853 - Freshii -INFO - Logging in with valid inputs
+2023-11-14 18:02:22,116 - Freshii -DEBUG - Debug logging has started 
+2023-11-14 18:02:25,654 - Freshii -INFO - Logging in with valid inputs
+2023-11-15 06:17:08,217 - Freshii -DEBUG - Debug logging has started 
+2023-11-15 06:17:13,174 - Freshii -INFO - User logged in with valid inputs
+2023-11-15 06:36:58,650 - Freshii -DEBUG - Debug logging has started 
+2023-11-15 06:37:38,030 - Freshii -DEBUG - Debug logging has started 
+2023-11-15 06:37:40,339 - Freshii -INFO - valid domain
+2023-11-15 06:37:41,208 - Freshii -INFO - invalid domain
+2023-11-15 06:37:44,028 - Freshii -INFO - all valid 
+2023-11-15 06:37:46,160 - Freshii -INFO - valid email
+2023-11-15 06:37:47,659 - Freshii -INFO - invalid email
+2023-11-15 06:37:49,183 - Freshii -INFO - invalid password
+2023-11-15 06:37:52,424 - Freshii -DEBUG - Debug logging has started 
+2023-11-15 06:37:56,382 - Freshii -INFO - User logged in with valid inputs
+2023-11-15 06:38:06,366 - Freshii -DEBUG - Debug logging has started 
+2023-11-15 06:38:13,038 - Freshii -DEBUG - Debug logging has started 
+2023-11-15 06:38:19,839 - Freshii -DEBUG - Debug logging has started 
+2023-11-15 06:38:24,715 - Freshii -DEBUG - Debug logging has started 
+2023-11-15 06:38:28,437 - Freshii -INFO - User logged in with valid inputs
+2023-11-15 06:38:32,684 - Freshii -DEBUG - Debug logging has started 
+2023-11-15 06:38:40,401 - Freshii -DEBUG - Debug logging has started 
+2023-11-15 06:38:50,224 - Freshii -DEBUG - Debug logging has started 
+2023-11-15 06:38:56,143 - Freshii -DEBUG - Debug logging has started 
+2023-11-15 06:39:13,775 - Freshii -DEBUG - Debug logging has started 
+2023-11-15 06:39:17,596 - Freshii -INFO - User logged in with valid inputs
+2023-11-15 06:40:21,441 - Freshii -DEBUG - Debug logging has started 
+2023-11-15 06:41:08,366 - Freshii -DEBUG - Debug logging has started 
+2023-11-15 06:41:12,293 - Freshii -INFO - User logged in with valid inputs
+2023-11-15 06:45:07,772 - Freshii -DEBUG - Debug logging has started 
+2023-11-15 06:45:11,723 - Freshii -INFO - Logging in with valid inputs
+2023-11-15 06:52:18,345 - Freshii -DEBUG - Debug logging has started 
+2023-11-15 06:52:20,722 - Freshii -INFO - valid domain
+2023-11-15 06:52:21,558 - Freshii -INFO - invalid domain
+2023-11-15 06:52:24,408 - Freshii -INFO - all valid 
+2023-11-15 06:52:26,665 - Freshii -INFO - valid email
+2023-11-15 06:52:28,185 - Freshii -INFO - invalid email
+2023-11-15 06:52:29,684 - Freshii -INFO - invalid password
+2023-11-15 06:52:32,944 - Freshii -DEBUG - Debug logging has started 
+2023-11-15 06:52:36,876 - Freshii -INFO - User logged in with valid inputs
+2023-11-15 06:52:45,238 - Freshii -DEBUG - Debug logging has started 
+2023-11-15 06:52:52,270 - Freshii -DEBUG - Debug logging has started 
+2023-11-15 06:52:59,272 - Freshii -DEBUG - Debug logging has started 
+2023-11-15 06:53:04,179 - Freshii -DEBUG - Debug logging has started 
+2023-11-15 06:53:08,001 - Freshii -INFO - User logged in with valid inputs
+2023-11-15 06:53:12,423 - Freshii -DEBUG - Debug logging has started 
+2023-11-15 06:53:18,741 - Freshii -DEBUG - Debug logging has started 
+2023-11-15 06:53:28,679 - Freshii -DEBUG - Debug logging has started 
+2023-11-15 06:53:35,243 - Freshii -DEBUG - Debug logging has started 
+2023-11-15 06:53:52,723 - Freshii -DEBUG - Debug logging has started 
+2023-11-15 06:53:56,069 - Freshii -INFO - User logged in with valid inputs
+2023-11-15 06:55:03,597 - Freshii -DEBUG - Debug logging has started 
+2023-11-15 06:55:51,472 - Freshii -DEBUG - Debug logging has started 
+2023-11-15 06:55:55,393 - Freshii -INFO - User logged in with valid inputs
+2023-11-15 07:16:13,039 - Freshii -DEBUG - Debug logging has started 
+2023-11-15 07:16:15,186 - Freshii -INFO - valid domain
+2023-11-15 07:16:16,039 - Freshii -INFO - invalid domain
+2023-11-15 07:16:18,899 - Freshii -INFO - all valid 
+2023-11-15 07:16:21,139 - Freshii -INFO - valid email
+2023-11-15 07:16:22,635 - Freshii -INFO - invalid email
+2023-11-15 07:16:24,139 - Freshii -INFO - invalid password
+2023-11-15 07:16:27,448 - Freshii -DEBUG - Debug logging has started 
+2023-11-15 07:16:30,705 - Freshii -INFO - User logged in with valid inputs
+2023-11-15 07:16:35,024 - Freshii -DEBUG - Debug logging has started 
+2023-11-15 07:16:38,743 - Freshii -INFO - Logging in with valid inputs
+2023-11-15 07:16:43,152 - Freshii -DEBUG - Debug logging has started 
+2023-11-15 07:16:46,965 - Freshii -INFO - User logged in with valid inputs
+2023-11-15 07:16:57,821 - Freshii -DEBUG - Debug logging has started 
+2023-11-15 07:17:02,854 - Freshii -DEBUG - Debug logging has started 
+2023-11-15 07:17:09,533 - Freshii -DEBUG - Debug logging has started 
+2023-11-15 07:17:15,527 - Freshii -DEBUG - Debug logging has started 
+2023-11-15 07:17:19,261 - Freshii -INFO - User logged in with valid inputs
+2023-11-15 07:17:24,663 - Freshii -DEBUG - Debug logging has started 
+2023-11-15 07:17:32,420 - Freshii -DEBUG - Debug logging has started 
+2023-11-15 07:17:42,272 - Freshii -DEBUG - Debug logging has started 
+2023-11-15 07:17:46,084 - Freshii -INFO - User logged in with valid inputs
+2023-11-15 07:17:50,576 - Freshii -DEBUG - Debug logging has started 
+2023-11-15 07:17:58,447 - Freshii -DEBUG - Debug logging has started 
+2023-11-15 07:18:05,403 - Freshii -DEBUG - Debug logging has started 
+2023-11-15 07:18:12,924 - Freshii -DEBUG - Debug logging has started 
+2023-11-15 07:18:18,161 - Freshii -DEBUG - Debug logging has started 
+2023-11-15 07:18:34,827 - Freshii -DEBUG - Debug logging has started 
+2023-11-15 07:18:45,056 - Freshii -DEBUG - Debug logging has started 
+2023-11-17 13:25:01,425 - Freshii -DEBUG - Debug logging has started 
+2023-11-17 13:25:06,882 - Freshii -INFO - User logged in with valid inputs
+2023-11-17 13:28:10,245 - Freshii -DEBUG - Debug logging has started 
+2023-11-17 13:28:14,199 - Freshii -INFO - User logged in with valid inputs
+2023-11-17 13:31:04,595 - Freshii -DEBUG - Debug logging has started 
+2023-11-17 13:31:08,587 - Freshii -INFO - User logged in with valid inputs
+2023-11-17 13:48:05,562 - Freshii -DEBUG - Debug logging has started 
+2023-11-17 13:48:09,559 - Freshii -INFO - User logged in with valid inputs
+2023-11-17 13:49:37,023 - Freshii -DEBUG - Debug logging has started 
+2023-11-17 13:49:40,485 - Freshii -INFO - User logged in with valid inputs
+2023-11-17 13:52:05,664 - Freshii -DEBUG - Debug logging has started 
+2023-11-17 13:52:09,001 - Freshii -INFO - User logged in with valid inputs
+2023-11-17 13:52:51,349 - Freshii -DEBUG - Debug logging has started 
+2023-11-17 13:52:55,374 - Freshii -INFO - User logged in with valid inputs
+2023-11-17 13:53:35,299 - Freshii -DEBUG - Debug logging has started 
+2023-11-17 13:53:39,331 - Freshii -INFO - User logged in with valid inputs
+2023-11-17 13:55:14,864 - Freshii -DEBUG - Debug logging has started 
+2023-11-17 13:55:18,828 - Freshii -INFO - User logged in with valid inputs
+2023-11-17 14:01:26,302 - Freshii -DEBUG - Debug logging has started 
+2023-11-17 14:01:31,711 - Freshii -INFO - User logged in with valid inputs
+2023-11-17 14:05:52,893 - Freshii -DEBUG - Debug logging has started 
+2023-11-17 14:05:57,067 - Freshii -INFO - User logged in with valid inputs
+2023-11-17 14:12:04,807 - Freshii -DEBUG - Debug logging has started 
+2023-11-17 14:12:08,812 - Freshii -INFO - User logged in with valid inputs
+2023-11-17 14:46:32,968 - Freshii -DEBUG - Debug logging has started 
+2023-11-17 14:46:36,955 - Freshii -INFO - User logged in with valid inputs
+2023-11-17 14:47:30,808 - Freshii -DEBUG - Debug logging has started 
+2023-11-17 14:47:35,657 - Freshii -INFO - User logged in with valid inputs
+2023-11-17 14:48:14,907 - Freshii -DEBUG - Debug logging has started 
+2023-11-17 14:48:18,544 - Freshii -INFO - User logged in with valid inputs
+2023-11-17 14:49:08,430 - Freshii -DEBUG - Debug logging has started 
+2023-11-17 14:49:12,650 - Freshii -INFO - User logged in with valid inputs
+2023-11-17 15:00:12,143 - Freshii -DEBUG - Debug logging has started 
+2023-11-17 15:00:16,154 - Freshii -INFO - User logged in with valid inputs
+2023-11-17 15:01:38,348 - Freshii -DEBUG - Debug logging has started 
+2023-11-17 15:01:42,258 - Freshii -INFO - User logged in with valid inputs
+2023-11-17 15:02:48,186 - Freshii -DEBUG - Debug logging has started 
+2023-11-17 15:02:52,251 - Freshii -INFO - User logged in with valid inputs
+2023-11-17 15:15:20,494 - Freshii -DEBUG - Debug logging has started 
+2023-11-17 15:15:24,454 - Freshii -INFO - User logged in with valid inputs
+2023-11-19 13:49:57,401 - Freshii -DEBUG - Debug logging has started 
+2023-11-19 13:50:01,297 - Freshii -INFO - User logged in with valid inputs
+2023-11-20 13:53:09,715 - Freshii -DEBUG - Debug logging has started 
+2023-11-20 13:53:25,770 - Freshii -DEBUG - Debug logging has started 
+2023-11-20 13:54:54,785 - Freshii -DEBUG - Debug logging has started 
+2023-11-20 13:54:59,238 - Freshii -INFO - User logged in with valid inputs
+2023-11-20 13:57:19,563 - Freshii -DEBUG - Debug logging has started 
+2023-11-20 13:57:26,387 - Freshii -DEBUG - Debug logging has started 
+2023-11-20 13:59:03,887 - Freshii -DEBUG - Debug logging has started 
+2023-11-20 13:59:12,538 - Freshii -DEBUG - Debug logging has started 
+2023-11-20 13:59:50,075 - Freshii -DEBUG - Debug logging has started 
+2023-11-20 14:00:44,989 - Freshii -DEBUG - Debug logging has started 
+2023-11-20 14:00:53,249 - Freshii -DEBUG - Debug logging has started 
+2023-11-20 14:04:59,696 - Freshii -DEBUG - Debug logging has started 
+2023-11-20 14:05:05,425 - Freshii -INFO - User logged in with valid inputs
+2023-11-20 14:29:05,146 - Freshii -DEBUG - Debug logging has started 
+2023-11-20 14:29:09,650 - Freshii -INFO - User logged in with valid inputs
+2023-11-20 14:37:30,620 - Freshii -DEBUG - Debug logging has started 
+2023-11-20 14:37:34,781 - Freshii -INFO - Logging in with valid inputs
+2023-11-20 15:47:33,523 - Freshii -DEBUG - Debug logging has started 
+2023-11-20 15:47:36,971 - Freshii -INFO - valid domain
+2023-11-20 15:47:37,817 - Freshii -INFO - invalid domain
+2023-11-20 15:47:49,628 - Freshii -INFO - valid email
+2023-11-20 15:48:00,839 - Freshii -INFO - invalid email
+2023-11-20 15:48:12,428 - Freshii -INFO - invalid password
+2023-11-20 15:48:31,294 - Freshii -DEBUG - Debug logging has started 
+2023-11-20 15:48:33,696 - Freshii -INFO - valid domain
+2023-11-20 15:48:34,520 - Freshii -INFO - invalid domain
+2023-11-20 15:49:43,307 - Freshii -DEBUG - Debug logging has started 
+2023-11-20 15:49:53,261 - Freshii -DEBUG - Debug logging has started 
+2023-11-20 15:49:58,513 - Freshii -INFO - User logged in with valid inputs
+2023-11-20 15:50:09,140 - Freshii -DEBUG - Debug logging has started 
+2023-11-20 15:50:22,862 - Freshii -DEBUG - Debug logging has started 
+2023-11-20 15:50:30,687 - Freshii -DEBUG - Debug logging has started 
+2023-11-20 15:50:39,364 - Freshii -DEBUG - Debug logging has started 
+2023-11-20 15:50:54,806 - Freshii -DEBUG - Debug logging has started 
+2023-11-20 15:51:04,583 - Freshii -DEBUG - Debug logging has started 
+2023-11-20 15:51:10,473 - Freshii -INFO - User logged in with valid inputs
+2023-11-20 15:51:15,409 - Freshii -DEBUG - Debug logging has started 
+2023-11-20 15:51:18,085 - Freshii -INFO - valid domain
+2023-11-20 15:51:18,854 - Freshii -INFO - invalid domain
+2023-11-20 15:51:30,084 - Freshii -INFO - valid email
+2023-11-20 15:51:40,608 - Freshii -INFO - invalid email
+2023-11-20 15:51:51,045 - Freshii -INFO - invalid password
+2023-11-20 15:52:02,540 - Freshii -DEBUG - Debug logging has started 
+2023-11-20 15:52:08,088 - Freshii -INFO - User logged in with valid inputs
+2023-11-20 15:52:11,397 - Freshii -DEBUG - Debug logging has started 
+2023-11-20 15:52:17,598 - Freshii -DEBUG - Debug logging has started 
+2023-11-20 15:52:22,243 - Freshii -DEBUG - Debug logging has started 
+2023-11-20 15:52:29,325 - Freshii -DEBUG - Debug logging has started 
+2023-11-20 15:52:39,803 - Freshii -DEBUG - Debug logging has started 
+2023-11-20 15:52:46,214 - Freshii -INFO - User logged in with valid inputs
+2023-11-20 15:52:51,457 - Freshii -DEBUG - Debug logging has started 
+2023-11-20 15:52:59,994 - Freshii -DEBUG - Debug logging has started 
+2023-11-20 15:53:11,217 - Freshii -DEBUG - Debug logging has started 
+2023-11-20 15:53:25,639 - Freshii -DEBUG - Debug logging has started 
+2023-11-20 15:53:30,288 - Freshii -INFO - User logged in with valid inputs
+2023-11-20 15:53:37,962 - Freshii -DEBUG - Debug logging has started 
+2023-11-20 15:54:13,903 - Freshii -DEBUG - Debug logging has started 
+2023-11-20 15:54:24,878 - Freshii -DEBUG - Debug logging has started 
+2023-11-20 15:54:29,532 - Freshii -INFO - User logged in with valid inputs
+2023-11-20 15:54:38,744 - Freshii -DEBUG - Debug logging has started 
+2023-11-20 15:54:56,198 - Freshii -DEBUG - Debug logging has started 
+2023-11-20 15:55:22,909 - Freshii -DEBUG - Debug logging has started 
+2023-11-20 15:55:43,864 - Freshii -DEBUG - Debug logging has started 
+2023-11-20 15:55:48,197 - Freshii -INFO - Logging in with valid inputs
+2023-11-20 17:45:40,366 - Freshii -DEBUG - Debug logging has started 
+2023-11-20 17:45:47,650 - Freshii -INFO - User logged in with valid inputs
+2023-11-20 17:59:26,530 - Freshii -DEBUG - Debug logging has started 
+2023-11-20 17:59:31,841 - Freshii -INFO - User logged in with valid inputs
+2023-11-20 18:26:40,548 - Freshii -DEBUG - Debug logging has started 
+2023-11-20 18:27:53,541 - Freshii -DEBUG - Debug logging has started 
+2023-11-21 20:11:12,248 - Freshii -DEBUG - Debug logging has started 
+2023-11-21 20:11:17,600 - Freshii -INFO - User logged in with valid inputs
+2023-11-22 12:12:37,518 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 12:12:41,296 - Freshii -INFO - Logging in with valid inputs
+2023-11-22 12:17:46,685 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 12:17:51,056 - Freshii -INFO - Logging in with valid inputs
+2023-11-22 16:20:12,245 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 16:20:25,158 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 16:20:34,935 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 16:20:38,357 - Freshii -INFO - User logged in with valid inputs
+2023-11-22 16:20:42,810 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 16:21:00,653 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 16:21:08,792 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 16:21:22,965 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 16:21:42,227 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 16:21:46,098 - Freshii -INFO - User logged in with valid inputs
+2023-11-22 16:21:56,189 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 16:22:00,323 - Freshii -INFO - Logging in with valid inputs
+2023-11-22 16:22:05,244 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 16:22:12,563 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 16:22:19,619 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 16:22:42,562 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 16:22:46,623 - Freshii -INFO - User logged in with valid inputs
+2023-11-22 16:22:50,498 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 16:22:53,929 - Freshii -INFO - User logged in with valid inputs
+2023-11-22 16:22:56,442 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 16:23:02,616 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 16:23:08,795 - Freshii -INFO - User logged in with valid inputs
+2023-11-22 16:23:18,040 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 16:23:22,439 - Freshii -INFO - User logged in with valid inputs
+2023-11-22 16:23:30,454 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 16:23:36,249 - Freshii -INFO - User logged in with valid inputs
+2023-11-22 16:23:42,108 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 16:23:50,553 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 16:24:08,922 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 16:24:15,192 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 16:24:24,549 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 16:24:34,167 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 16:24:42,620 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 16:24:47,114 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 16:25:02,044 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 16:25:04,350 - Freshii -INFO - valid domain
+2023-11-22 16:25:05,865 - Freshii -INFO - invalid domain
+2023-11-22 16:25:18,047 - Freshii -INFO - valid email
+2023-11-22 16:25:28,887 - Freshii -INFO - invalid email
+2023-11-22 16:25:39,708 - Freshii -INFO - invalid password
+2023-11-22 16:25:51,470 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 16:33:01,550 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 16:38:38,074 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 16:38:49,259 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 16:38:57,652 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 16:39:01,392 - Freshii -INFO - User logged in with valid inputs
+2023-11-22 16:39:05,807 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 16:39:19,176 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 16:39:28,702 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 16:39:42,809 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 16:39:53,806 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 16:39:57,168 - Freshii -INFO - User logged in with valid inputs
+2023-11-22 16:40:06,196 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 16:40:10,931 - Freshii -INFO - Logging in with valid inputs
+2023-11-22 16:40:15,284 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 16:40:24,813 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 16:40:31,988 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 16:40:53,018 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 16:40:57,557 - Freshii -INFO - User logged in with valid inputs
+2023-11-22 16:41:01,927 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 16:41:05,672 - Freshii -INFO - User logged in with valid inputs
+2023-11-22 16:41:09,197 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 16:41:18,687 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 16:41:22,538 - Freshii -INFO - User logged in with valid inputs
+2023-11-22 16:41:30,742 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 16:41:34,495 - Freshii -INFO - User logged in with valid inputs
+2023-11-22 16:41:42,697 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 16:41:46,890 - Freshii -INFO - User logged in with valid inputs
+2023-11-22 16:41:51,201 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 16:41:58,705 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 16:42:11,816 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 16:42:18,547 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 16:42:26,282 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 16:42:36,228 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 16:42:46,949 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 16:42:51,073 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 16:42:55,769 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 16:42:58,080 - Freshii -INFO - valid domain
+2023-11-22 16:42:58,851 - Freshii -INFO - invalid domain
+2023-11-22 16:43:01,555 - Freshii -INFO - all valid 
+2023-11-22 16:43:03,746 - Freshii -INFO - valid email
+2023-11-22 16:43:05,174 - Freshii -INFO - invalid email
+2023-11-22 16:43:06,594 - Freshii -INFO - invalid password
+2023-11-22 16:43:09,667 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 16:49:43,845 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 16:51:44,260 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 16:52:58,828 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 16:53:26,408 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 17:00:33,832 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 17:00:47,061 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 17:00:57,229 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 17:01:01,096 - Freshii -INFO - User logged in with valid inputs
+2023-11-22 17:01:05,435 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 17:01:18,632 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 17:01:27,991 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 17:01:42,358 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 17:01:53,220 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 17:01:56,490 - Freshii -INFO - User logged in with valid inputs
+2023-11-22 17:02:05,196 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 17:02:09,296 - Freshii -INFO - Logging in with valid inputs
+2023-11-22 17:02:13,217 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 17:02:21,694 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 17:02:28,034 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 17:02:50,177 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 17:02:54,914 - Freshii -INFO - User logged in with valid inputs
+2023-11-22 17:02:59,302 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 17:03:03,063 - Freshii -INFO - User logged in with valid inputs
+2023-11-22 17:03:05,726 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 17:03:15,329 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 17:03:19,176 - Freshii -INFO - User logged in with valid inputs
+2023-11-22 17:03:26,879 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 17:03:31,606 - Freshii -INFO - User logged in with valid inputs
+2023-11-22 17:03:40,491 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 17:03:44,330 - Freshii -INFO - User logged in with valid inputs
+2023-11-22 17:03:48,658 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 17:03:55,801 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 17:04:08,753 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 17:04:14,855 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 17:04:22,679 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 17:04:32,277 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 17:04:40,474 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 17:04:44,319 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 17:04:48,730 - Freshii -DEBUG - Debug logging has started 
+2023-11-22 17:04:50,839 - Freshii -INFO - valid domain
+2023-11-22 17:04:52,633 - Freshii -INFO - invalid domain
+2023-11-22 17:04:55,344 - Freshii -INFO - all valid 
+2023-11-22 17:04:57,546 - Freshii -INFO - valid email
+2023-11-22 17:04:58,969 - Freshii -INFO - invalid email
+2023-11-22 17:05:00,385 - Freshii -INFO - invalid password
+2023-11-22 17:05:03,966 - Freshii -DEBUG - Debug logging has started 
+2023-11-23 08:45:15,063 - Freshii -DEBUG - Debug logging has started 
+2023-11-23 08:45:28,434 - Freshii -DEBUG - Debug logging has started 
+2023-11-23 08:45:38,468 - Freshii -DEBUG - Debug logging has started 
+2023-11-23 08:45:41,728 - Freshii -INFO - User logged in with valid inputs
+2023-11-23 08:45:46,109 - Freshii -DEBUG - Debug logging has started 
+2023-11-23 08:45:59,460 - Freshii -DEBUG - Debug logging has started 
+2023-11-23 08:46:08,454 - Freshii -DEBUG - Debug logging has started 
+2023-11-23 08:46:22,548 - Freshii -DEBUG - Debug logging has started 
+2023-11-23 08:46:33,515 - Freshii -DEBUG - Debug logging has started 
+2023-11-23 08:46:37,312 - Freshii -INFO - User logged in with valid inputs
+2023-11-23 08:46:46,025 - Freshii -DEBUG - Debug logging has started 
+2023-11-23 08:46:49,952 - Freshii -INFO - Logging in with valid inputs
+2023-11-23 08:46:54,307 - Freshii -DEBUG - Debug logging has started 
+2023-11-23 08:47:02,558 - Freshii -DEBUG - Debug logging has started 
+2023-11-23 08:47:09,603 - Freshii -DEBUG - Debug logging has started 
+2023-11-23 08:47:32,035 - Freshii -DEBUG - Debug logging has started 
+2023-11-23 08:47:35,420 - Freshii -INFO - User logged in with valid inputs
+2023-11-23 08:47:39,829 - Freshii -DEBUG - Debug logging has started 
+2023-11-23 08:47:43,708 - Freshii -INFO - User logged in with valid inputs
+2023-11-23 08:47:46,148 - Freshii -DEBUG - Debug logging has started 
+2023-11-23 08:47:55,818 - Freshii -DEBUG - Debug logging has started 
+2023-11-23 08:47:59,152 - Freshii -INFO - User logged in with valid inputs
+2023-11-23 08:48:07,767 - Freshii -DEBUG - Debug logging has started 
+2023-11-23 08:48:11,795 - Freshii -INFO - User logged in with valid inputs
+2023-11-23 08:48:21,612 - Freshii -DEBUG - Debug logging has started 
+2023-11-23 08:48:24,932 - Freshii -INFO - User logged in with valid inputs
+2023-11-23 08:48:29,279 - Freshii -DEBUG - Debug logging has started 
+2023-11-23 08:48:36,282 - Freshii -DEBUG - Debug logging has started 
+2023-11-23 08:48:50,516 - Freshii -DEBUG - Debug logging has started 
+2023-11-23 08:48:57,804 - Freshii -DEBUG - Debug logging has started 
+2023-11-23 08:49:05,704 - Freshii -DEBUG - Debug logging has started 
+2023-11-23 08:49:16,309 - Freshii -DEBUG - Debug logging has started 
+2023-11-23 08:49:24,428 - Freshii -DEBUG - Debug logging has started 
+2023-11-23 08:49:28,485 - Freshii -DEBUG - Debug logging has started 
+2023-11-23 08:49:33,014 - Freshii -DEBUG - Debug logging has started 
+2023-11-23 08:49:35,160 - Freshii -INFO - valid domain
+2023-11-23 08:49:35,922 - Freshii -INFO - invalid domain
+2023-11-23 08:49:38,650 - Freshii -INFO - all valid 
+2023-11-23 08:49:40,720 - Freshii -INFO - valid email
+2023-11-23 08:49:42,130 - Freshii -INFO - invalid email
+2023-11-23 08:49:43,557 - Freshii -INFO - invalid password
+2023-11-23 08:49:46,689 - Freshii -DEBUG - Debug logging has started 
+2023-11-23 09:52:52,977 - Freshii -DEBUG - Debug logging has started 
+2023-11-23 09:52:56,871 - Freshii -INFO - User logged in with valid inputs
+2023-11-23 09:53:54,588 - Freshii -DEBUG - Debug logging has started 
+2023-11-23 09:53:58,402 - Freshii -INFO - User logged in with valid inputs
+2023-11-23 10:40:43,032 - Freshii -DEBUG - Debug logging has started 
+2023-11-23 10:40:46,951 - Freshii -INFO - User logged in with valid inputs
+2023-11-23 12:03:59,270 - Freshii -DEBUG - Debug logging has started 
+2023-11-23 12:04:20,335 - Freshii -DEBUG - Debug logging has started 
+2023-11-23 12:04:23,840 - Freshii -INFO - User logged in with valid inputs
+2023-11-23 12:05:40,471 - Freshii -DEBUG - Debug logging has started 
+2023-11-23 12:05:45,328 - Freshii -INFO - User logged in with valid inputs
+2023-11-23 12:06:11,021 - Freshii -DEBUG - Debug logging has started 
+2023-11-23 12:06:14,741 - Freshii -INFO - User logged in with valid inputs
+2023-11-23 12:16:49,423 - Freshii -DEBUG - Debug logging has started 
+2023-11-23 12:16:53,272 - Freshii -INFO - User logged in with valid inputs
+2023-11-23 12:18:03,183 - Freshii -DEBUG - Debug logging has started 
+2023-11-23 12:18:07,037 - Freshii -INFO - User logged in with valid inputs
+2023-11-23 12:44:03,804 - Freshii -DEBUG - Debug logging has started 
+2023-11-23 12:44:07,127 - Freshii -INFO - User logged in with valid inputs
+2023-11-23 12:46:41,412 - Freshii -DEBUG - Debug logging has started 
+2023-11-23 12:46:45,469 - Freshii -INFO - User logged in with valid inputs
+2023-11-24 09:19:15,378 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 09:19:19,329 - Freshii -INFO - User logged in with valid inputs
+2023-11-24 10:17:22,234 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:17:36,933 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:17:45,922 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:17:49,751 - Freshii -INFO - User logged in with valid inputs
+2023-11-24 10:17:54,009 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:18:06,894 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:18:15,256 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:18:29,276 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:18:47,206 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:18:51,006 - Freshii -INFO - User logged in with valid inputs
+2023-11-24 10:19:03,697 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:19:08,508 - Freshii -INFO - Logging in with valid inputs
+2023-11-24 10:19:12,969 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:19:20,915 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:19:27,491 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:19:49,962 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:19:53,825 - Freshii -INFO - User logged in with valid inputs
+2023-11-24 10:19:58,349 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:20:02,273 - Freshii -INFO - User logged in with valid inputs
+2023-11-24 10:20:04,865 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:20:15,257 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:20:19,080 - Freshii -INFO - User logged in with valid inputs
+2023-11-24 10:20:26,344 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:20:30,508 - Freshii -INFO - User logged in with valid inputs
+2023-11-24 10:20:38,319 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:20:42,142 - Freshii -INFO - User logged in with valid inputs
+2023-11-24 10:20:46,474 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:20:54,916 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:21:08,398 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:21:14,584 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:21:23,494 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:21:33,775 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:21:41,553 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:21:46,426 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:21:51,045 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:21:53,298 - Freshii -INFO - valid domain
+2023-11-24 10:21:54,080 - Freshii -INFO - invalid domain
+2023-11-24 10:21:56,861 - Freshii -INFO - all valid 
+2023-11-24 10:21:59,094 - Freshii -INFO - valid email
+2023-11-24 10:22:00,603 - Freshii -INFO - invalid email
+2023-11-24 10:22:02,054 - Freshii -INFO - invalid password
+2023-11-24 10:22:05,215 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:27:32,357 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:28:25,420 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:28:37,016 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:28:46,066 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:28:50,038 - Freshii -INFO - User logged in with valid inputs
+2023-11-24 10:28:54,296 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:29:06,639 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:29:16,667 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:29:30,736 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:29:50,551 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:29:54,796 - Freshii -INFO - User logged in with valid inputs
+2023-11-24 10:30:08,594 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:30:12,598 - Freshii -INFO - Logging in with valid inputs
+2023-11-24 10:30:17,038 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:30:25,476 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:30:33,523 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:30:53,923 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:30:57,888 - Freshii -INFO - User logged in with valid inputs
+2023-11-24 10:31:02,318 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:31:07,094 - Freshii -INFO - User logged in with valid inputs
+2023-11-24 10:31:09,535 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:31:19,246 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:31:23,174 - Freshii -INFO - User logged in with valid inputs
+2023-11-24 10:31:31,256 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:31:35,188 - Freshii -INFO - User logged in with valid inputs
+2023-11-24 10:31:44,763 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:31:48,502 - Freshii -INFO - User logged in with valid inputs
+2023-11-24 10:31:52,632 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:32:01,019 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:32:14,510 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:32:20,941 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:32:29,110 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:32:38,867 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:32:47,073 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:32:51,378 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:32:55,846 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:32:58,058 - Freshii -INFO - valid domain
+2023-11-24 10:32:58,863 - Freshii -INFO - invalid domain
+2023-11-24 10:33:01,116 - Freshii -INFO - all valid 
+2023-11-24 10:33:03,391 - Freshii -INFO - valid email
+2023-11-24 10:33:04,839 - Freshii -INFO - invalid email
+2023-11-24 10:33:06,303 - Freshii -INFO - invalid password
+2023-11-24 10:33:09,530 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:35:57,736 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:36:01,528 - Freshii -INFO - User logged in with valid inputs
+2023-11-24 10:38:28,259 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:38:40,573 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:38:50,877 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:38:55,281 - Freshii -INFO - User logged in with valid inputs
+2023-11-24 10:38:59,672 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:39:12,251 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:39:20,898 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:39:35,218 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:39:46,334 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:39:50,534 - Freshii -INFO - User logged in with valid inputs
+2023-11-24 10:40:03,411 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:40:06,946 - Freshii -INFO - Logging in with valid inputs
+2023-11-24 10:40:11,363 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:40:20,153 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:40:26,884 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:41:23,946 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:41:27,300 - Freshii -INFO - User logged in with valid inputs
+2023-11-24 10:41:32,057 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:41:35,458 - Freshii -INFO - User logged in with valid inputs
+2023-11-24 10:41:39,002 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:41:50,973 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:41:54,316 - Freshii -INFO - User logged in with valid inputs
+2023-11-24 10:42:01,883 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:42:05,234 - Freshii -INFO - User logged in with valid inputs
+2023-11-24 10:42:14,942 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:42:18,825 - Freshii -INFO - User logged in with valid inputs
+2023-11-24 10:42:23,043 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:42:30,838 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:42:56,852 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:43:02,490 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:43:10,594 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:43:20,419 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:43:28,841 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:43:33,882 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:43:38,417 - Freshii -DEBUG - Debug logging has started 
+2023-11-24 10:43:40,517 - Freshii -INFO - valid domain
+2023-11-24 10:43:41,293 - Freshii -INFO - invalid domain
+2023-11-24 10:43:44,009 - Freshii -INFO - all valid 
+2023-11-24 10:43:46,222 - Freshii -INFO - valid email
+2023-11-24 10:43:47,666 - Freshii -INFO - invalid email
+2023-11-24 10:43:49,089 - Freshii -INFO - invalid password
+2023-11-24 10:43:52,143 - Freshii -DEBUG - Debug logging has started 
+2023-11-26 18:09:44,105 - Freshii -DEBUG - Debug logging has started 
+2023-11-26 18:09:49,377 - Freshii -INFO - User logged in with valid inputs
+2023-11-26 18:10:33,944 - Freshii -DEBUG - Debug logging has started 
+2023-11-26 18:10:37,352 - Freshii -INFO - User logged in with valid inputs
+2023-11-26 18:11:32,061 - Freshii -DEBUG - Debug logging has started 
+2023-11-26 18:11:35,981 - Freshii -INFO - User logged in with valid inputs
+2023-11-27 09:51:58,800 - Freshii -DEBUG - Debug logging has started 
+2023-11-27 09:52:02,787 - Freshii -INFO - User logged in with valid inputs
+2023-11-27 18:17:24,774 - Freshii -DEBUG - Debug logging has started 
